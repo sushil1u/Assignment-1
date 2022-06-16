@@ -1,0 +1,41 @@
+Q1 >Why do computers understand only binary language?
+Ans>Because computer madeup of hardwarepart like ROM,
+    Processor and hard disk etc.Any hardware device represent 
+    in two state, high and low state.High represent as 1 and 
+    LOW represent as 0.
+
+Q2 >What is the full form of IDE?
+ANs>Full form of IDE is Integrated Development Environment.
+
+
+Q3 > What is the difference between a text editor and a code editor?
+Ans> A text editor simply allows you to write and edit text and
+    it does not have anything built-in to help you to code whereas
+    a code editor is also a text editor but it also helps you write code.
+
+Q4> What are the steps to develop software using the C language?
+Ans> Three steps require for developing a program
+    >writing the source code.
+    >Compilation of  the source code .
+    >Execution of the machine code .
+
+Q5> Explore by your own
+    
+5. Explore by your own
+    a. What is the latest version of C Language? 
+    b. Who developed C Language?
+    c. What is the difference between System and Application Software?
+    d. How to convert a number from a decimal number system to a binary number system?
+Ans a>C17(ISO/IEC 9899:2018).
+    b>Dennis Ritchie in 1972.
+    c>System software use for controlling the overall functioning of the machine
+      like operating system .
+      Application software use for a particular task like whatsapp,truecaller etc.
+    d>Decimal number system to a binary number system
+      1. Write down the number.
+      2. Divide it by 2 and note the remainder.
+      3. Divide the quotient obtained by 2 and note the remainder.
+      4. Repeat the same process till we get 0 as the quotient.
+      5. Write the values of all the remainders starting from the bottom to the top.
+
+
